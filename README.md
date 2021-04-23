@@ -1,0 +1,3 @@
+# SafeBNB
+
+SafeBNBReward is an experimental crypto-currency issued on Binance Smart Chain using BEP-20 token standard. SafeBNBReward is built with anti-rug pulls and anti-dump in mind.Over the last year, many experimental tokens have been created on Ethereum and Binance Smart Chain with the goal to create a cryptocurrency where every holder can benefit from the token and to build a new token economy with the use of the created token. Different tokenomics, experimental lock & burn schemes have been issued. Along with those new tokens, scammers have also been creating rug-pull tokens with the goal to steal users’ money.
